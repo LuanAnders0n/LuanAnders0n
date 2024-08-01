@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Tenho 22 anos e sou <strong>Desenvolvedor Front-End</strong>.
+Tenho 23 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
 Graduado em Análise e Desenvolvimento de Sistemas na Universidade Anhanguera, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor.
 
